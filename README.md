@@ -3,7 +3,7 @@
 
 ## Diferencial ✔
 
-#### Nele também pude criar um menu "hambúrguer" e animações somente com CSS puro, utilizando o webkit-keyframes, além de poder criar um design responsivo para desktop, tablet e mobile atravé de medias queries.
+#### Nele também pude criar um menu "hambúrguer" e animações somente com CSS puro, utilizando o webkit-keyframes, além de poder criar um design responsivo para desktop, tablet e mobile através de medias queries.
 
 ## Tecnologias utilizadas ⚔
 <div style="display: inline_block">
