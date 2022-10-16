@@ -15,5 +15,4 @@
 ## Vizualização 💻
 
 #### Para vizualizar a página completa, basta acessar o seguinte link: https://emanuelly-wolski.github.io/landing-page-grid-e-flex/
-
 <img src="./agencia.gif" alt="Gif do layout">
